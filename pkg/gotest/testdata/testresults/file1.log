@@ -1,0 +1,22 @@
+{"Time":"2019-01-07T07:20:29.609356+01:00","Action":"run","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Test":"TestO"}
+{"Time":"2019-01-07T07:20:29.609648+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Test":"TestO","Output":"=== RUN   TestO\n"}
+{"Time":"2019-01-07T07:20:29.609684+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Test":"TestO","Output":"--- FAIL: TestO (0.00s)\n"}
+{"Time":"2019-01-07T07:20:29.609695+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Test":"TestO","Elapsed":0}
+{"Time":"2019-01-07T07:20:29.609715+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Output":"FAIL\n"}
+{"Time":"2019-01-07T07:20:29.609816+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Output":"FAIL\tgithub.com/kyroy/gochecks/test/cases/subpkgs/p1\t0.008s\n"}
+{"Time":"2019-01-07T07:20:29.609846+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p1","Elapsed":0.008}
+{"Time":"2019-01-07T07:20:29.610605+01:00","Action":"run","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Test":"TestF"}
+{"Time":"2019-01-07T07:20:29.61065+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Test":"TestF","Output":"=== RUN   TestF\n"}
+{"Time":"2019-01-07T07:20:29.610687+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Test":"TestF","Output":"--- PASS: TestF (0.00s)\n"}
+{"Time":"2019-01-07T07:20:29.610697+01:00","Action":"pass","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Test":"TestF","Elapsed":0}
+{"Time":"2019-01-07T07:20:29.610707+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Output":"PASS\n"}
+{"Time":"2019-01-07T07:20:29.611321+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Output":"ok  \tgithub.com/kyroy/gochecks/test/cases/subpkgs\t0.008s\n"}
+{"Time":"2019-01-07T07:20:29.613223+01:00","Action":"pass","Package":"github.com/kyroy/gochecks/test/cases/subpkgs","Elapsed":0.011}
+{"Time":"2019-01-07T07:20:29.623309+01:00","Action":"run","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Test":"TestTwo"}
+{"Time":"2019-01-07T07:20:29.623346+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Test":"TestTwo","Output":"=== RUN   TestTwo\n"}
+{"Time":"2019-01-07T07:20:29.623367+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Test":"TestTwo","Output":"--- FAIL: TestTwo (0.00s)\n"}
+{"Time":"2019-01-07T07:20:29.623388+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Test":"TestTwo","Output":"    m_test.go:6: failed test two\n"}
+{"Time":"2019-01-07T07:20:29.623393+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Test":"TestTwo","Elapsed":0}
+{"Time":"2019-01-07T07:20:29.623406+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Output":"FAIL\n"}
+{"Time":"2019-01-07T07:20:29.623916+01:00","Action":"output","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Output":"FAIL\tgithub.com/kyroy/gochecks/test/cases/subpkgs/p2\t0.006s\n"}
+{"Time":"2019-01-07T07:20:29.623958+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/test/cases/subpkgs/p2","Elapsed":0.006}

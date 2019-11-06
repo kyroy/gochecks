@@ -1,0 +1,26 @@
+{"Time":"2019-01-07T19:00:04.075238+01:00","Action":"run","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Test":"TestTwo"}
+{"Time":"2019-01-07T19:00:04.076009+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Test":"TestTwo","Output":"=== RUN   TestTwo\n"}
+{"Time":"2019-01-07T19:00:04.076032+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Test":"TestTwo","Output":"--- FAIL: TestTwo (0.00s)\n"}
+{"Time":"2019-01-07T19:00:04.076042+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Test":"TestTwo","Output":"    m_test.go:6: failed test two\n"}
+{"Time":"2019-01-07T19:00:04.076046+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Test":"TestTwo","Elapsed":0}
+{"Time":"2019-01-07T19:00:04.076059+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Output":"FAIL\n"}
+{"Time":"2019-01-07T19:00:04.076064+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Output":"coverage: 0.0% of statements\n"}
+{"Time":"2019-01-07T19:00:04.07611+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Output":"FAIL\tgithub.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2\t0.009s\n"}
+{"Time":"2019-01-07T19:00:04.076162+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p2","Elapsed":0.009}
+{"Time":"2019-01-07T19:00:04.078266+01:00","Action":"run","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Test":"TestF"}
+{"Time":"2019-01-07T19:00:04.078284+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Test":"TestF","Output":"=== RUN   TestF\n"}
+{"Time":"2019-01-07T19:00:04.078291+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Test":"TestF","Output":"ok\n"}
+{"Time":"2019-01-07T19:00:04.078304+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Test":"TestF","Output":"--- PASS: TestF (0.00s)\n"}
+{"Time":"2019-01-07T19:00:04.078311+01:00","Action":"pass","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Test":"TestF","Elapsed":0}
+{"Time":"2019-01-07T19:00:04.078319+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Output":"PASS\n"}
+{"Time":"2019-01-07T19:00:04.078394+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Output":"coverage: 0.0% of statements\n"}
+{"Time":"2019-01-07T19:00:04.078789+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Output":"ok  \tgithub.com/kyroy/gochecks/converter/testdata/gotests/subpkgs\t0.007s\tcoverage: 0.0% of statements\n"}
+{"Time":"2019-01-07T19:00:04.080524+01:00","Action":"pass","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs","Elapsed":0.009}
+{"Time":"2019-01-07T19:00:04.090015+01:00","Action":"run","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Test":"TestO"}
+{"Time":"2019-01-07T19:00:04.090063+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Test":"TestO","Output":"=== RUN   TestO\n"}
+{"Time":"2019-01-07T19:00:04.0901+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Test":"TestO","Output":"--- FAIL: TestO (0.00s)\n"}
+{"Time":"2019-01-07T19:00:04.090107+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Test":"TestO","Elapsed":0}
+{"Time":"2019-01-07T19:00:04.090117+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Output":"FAIL\n"}
+{"Time":"2019-01-07T19:00:04.090182+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Output":"coverage: 0.0% of statements\n"}
+{"Time":"2019-01-07T19:00:04.090517+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Output":"FAIL\tgithub.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1\t0.005s\n"}
+{"Time":"2019-01-07T19:00:04.090555+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/subpkgs/p1","Elapsed":0.006}

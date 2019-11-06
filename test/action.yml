@@ -1,0 +1,5 @@
+name: "GoChecks Test"
+description: "Executes go tests."
+runs:
+  using: "docker"
+  image: "Dockerfile"

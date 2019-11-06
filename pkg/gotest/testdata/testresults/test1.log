@@ -1,0 +1,13 @@
+{"Time":"2019-01-07T19:09:41.142177+01:00","Action":"run","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestMe"}
+{"Time":"2019-01-07T19:09:41.143121+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestMe","Output":"=== RUN   TestMe\n"}
+{"Time":"2019-01-07T19:09:41.143147+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestMe","Output":"--- PASS: TestMe (0.00s)\n"}
+{"Time":"2019-01-07T19:09:41.143156+01:00","Action":"pass","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestMe","Elapsed":0}
+{"Time":"2019-01-07T19:09:41.143191+01:00","Action":"run","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestTwo"}
+{"Time":"2019-01-07T19:09:41.143206+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestTwo","Output":"=== RUN   TestTwo\n"}
+{"Time":"2019-01-07T19:09:41.14322+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestTwo","Output":"--- FAIL: TestTwo (0.00s)\n"}
+{"Time":"2019-01-07T19:09:41.143231+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestTwo","Output":"    t_test.go:10: my fail msg\n"}
+{"Time":"2019-01-07T19:09:41.143243+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Test":"TestTwo","Elapsed":0}
+{"Time":"2019-01-07T19:09:41.143252+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Output":"FAIL\n"}
+{"Time":"2019-01-07T19:09:41.143264+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Output":"coverage: 66.7% of statements\n"}
+{"Time":"2019-01-07T19:09:41.143307+01:00","Action":"output","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Output":"FAIL\tgithub.com/kyroy/gochecks/converter/testdata/gotests/test1\t0.007s\n"}
+{"Time":"2019-01-07T19:09:41.143322+01:00","Action":"fail","Package":"github.com/kyroy/gochecks/converter/testdata/gotests/test1","Elapsed":0.007}

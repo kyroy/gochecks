@@ -1,0 +1,1366 @@
+[
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange",
+        "output": [
+            "=== RUN   TestNewRange\n",
+            "--- PASS: TestNewRange (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange/nil",
+        "output": [
+            "=== RUN   TestNewRange/nil\n",
+            "    --- PASS: TestNewRange/nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange/uneven",
+        "output": [
+            "=== RUN   TestNewRange/uneven\n",
+            "    --- PASS: TestNewRange/uneven (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange/empty",
+        "output": [
+            "=== RUN   TestNewRange/empty\n",
+            "    --- PASS: TestNewRange/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange/2d",
+        "output": [
+            "=== RUN   TestNewRange/2d\n",
+            "    --- PASS: TestNewRange/2d (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "test": "TestNewRange/3d",
+        "output": [
+            "=== RUN   TestNewRange/3d\n",
+            "    --- PASS: TestNewRange/3d (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/kdrange",
+        "output": [
+            "PASS\n",
+            "coverage: 100.0% of statements\n",
+            "ok  \tgithub.com/kyroy/kdtree/kdrange\t0.019s\tcoverage: 100.0% of statements\n"
+        ],
+        "result": "pass",
+        "elapsed": 22000000,
+        "coverage": 1
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_Dimensions",
+        "output": [
+            "=== RUN   TestPoint2D_Dimensions\n",
+            "--- PASS: TestPoint2D_Dimensions (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_TestDimension",
+        "output": [
+            "=== RUN   TestPoint2D_TestDimension\n",
+            "--- PASS: TestPoint2D_TestDimension (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_TestDimension/empty",
+        "output": [
+            "=== RUN   TestPoint2D_TestDimension/empty\n",
+            "    --- PASS: TestPoint2D_TestDimension/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_TestDimension/X",
+        "output": [
+            "=== RUN   TestPoint2D_TestDimension/X\n",
+            "    --- PASS: TestPoint2D_TestDimension/X (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_TestDimension/Y",
+        "output": [
+            "=== RUN   TestPoint2D_TestDimension/Y\n",
+            "    --- PASS: TestPoint2D_TestDimension/Y (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_TestDimension/XY",
+        "output": [
+            "=== RUN   TestPoint2D_TestDimension/XY\n",
+            "    --- PASS: TestPoint2D_TestDimension/XY (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_String",
+        "output": [
+            "=== RUN   TestPoint2D_String\n",
+            "--- PASS: TestPoint2D_String (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_String/empty",
+        "output": [
+            "=== RUN   TestPoint2D_String/empty\n",
+            "    --- PASS: TestPoint2D_String/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_String/X",
+        "output": [
+            "=== RUN   TestPoint2D_String/X\n",
+            "    --- PASS: TestPoint2D_String/X (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_String/Y",
+        "output": [
+            "=== RUN   TestPoint2D_String/Y\n",
+            "    --- PASS: TestPoint2D_String/Y (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint2D_String/XY",
+        "output": [
+            "=== RUN   TestPoint2D_String/XY\n",
+            "    --- PASS: TestPoint2D_String/XY (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_Dimensions",
+        "output": [
+            "=== RUN   TestPoint3D_Dimensions\n",
+            "--- PASS: TestPoint3D_Dimensions (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension\n",
+            "--- PASS: TestPoint3D_TestDimension (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension/empty",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension/empty\n",
+            "    --- PASS: TestPoint3D_TestDimension/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension/X",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension/X\n",
+            "    --- PASS: TestPoint3D_TestDimension/X (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension/Y",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension/Y\n",
+            "    --- PASS: TestPoint3D_TestDimension/Y (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension/Z",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension/Z\n",
+            "    --- PASS: TestPoint3D_TestDimension/Z (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_TestDimension/XYZ",
+        "output": [
+            "=== RUN   TestPoint3D_TestDimension/XYZ\n",
+            "    --- PASS: TestPoint3D_TestDimension/XYZ (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String",
+        "output": [
+            "=== RUN   TestPoint3D_String\n",
+            "--- PASS: TestPoint3D_String (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String/empty",
+        "output": [
+            "=== RUN   TestPoint3D_String/empty\n",
+            "    --- PASS: TestPoint3D_String/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String/X",
+        "output": [
+            "=== RUN   TestPoint3D_String/X\n",
+            "    --- PASS: TestPoint3D_String/X (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String/Y",
+        "output": [
+            "=== RUN   TestPoint3D_String/Y\n",
+            "    --- PASS: TestPoint3D_String/Y (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String/Z",
+        "output": [
+            "=== RUN   TestPoint3D_String/Z\n",
+            "    --- PASS: TestPoint3D_String/Z (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint3D_String/XY",
+        "output": [
+            "=== RUN   TestPoint3D_String/XY\n",
+            "    --- PASS: TestPoint3D_String/XY (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestNewPoint",
+        "output": [
+            "=== RUN   TestNewPoint\n",
+            "--- PASS: TestNewPoint (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestNewPoint/nil_nil",
+        "output": [
+            "=== RUN   TestNewPoint/nil_nil\n",
+            "    --- PASS: TestNewPoint/nil_nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimensions",
+        "output": [
+            "=== RUN   TestPoint_Dimensions\n",
+            "--- PASS: TestPoint_Dimensions (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimensions/empty",
+        "output": [
+            "=== RUN   TestPoint_Dimensions/empty\n",
+            "    --- PASS: TestPoint_Dimensions/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimensions/1",
+        "output": [
+            "=== RUN   TestPoint_Dimensions/1\n",
+            "    --- PASS: TestPoint_Dimensions/1 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimensions/2",
+        "output": [
+            "=== RUN   TestPoint_Dimensions/2\n",
+            "    --- PASS: TestPoint_Dimensions/2 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimensions/6",
+        "output": [
+            "=== RUN   TestPoint_Dimensions/6\n",
+            "    --- PASS: TestPoint_Dimensions/6 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimension",
+        "output": [
+            "=== RUN   TestPoint_Dimension\n",
+            "--- PASS: TestPoint_Dimension (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimension/empty",
+        "output": [
+            "=== RUN   TestPoint_Dimension/empty\n",
+            "    --- PASS: TestPoint_Dimension/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimension/1",
+        "output": [
+            "=== RUN   TestPoint_Dimension/1\n",
+            "    --- PASS: TestPoint_Dimension/1 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimension/2",
+        "output": [
+            "=== RUN   TestPoint_Dimension/2\n",
+            "    --- PASS: TestPoint_Dimension/2 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_Dimension/6",
+        "output": [
+            "=== RUN   TestPoint_Dimension/6\n",
+            "    --- PASS: TestPoint_Dimension/6 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String",
+        "output": [
+            "=== RUN   TestPoint_String\n",
+            "--- PASS: TestPoint_String (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String/empty",
+        "output": [
+            "=== RUN   TestPoint_String/empty\n",
+            "    --- PASS: TestPoint_String/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String/string_data",
+        "output": [
+            "=== RUN   TestPoint_String/string_data\n",
+            "    --- PASS: TestPoint_String/string_data (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String/float_data",
+        "output": [
+            "=== RUN   TestPoint_String/float_data\n",
+            "    --- PASS: TestPoint_String/float_data (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String/int_data",
+        "output": [
+            "=== RUN   TestPoint_String/int_data\n",
+            "    --- PASS: TestPoint_String/int_data (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "test": "TestPoint_String/struct_data",
+        "output": [
+            "=== RUN   TestPoint_String/struct_data\n",
+            "    --- PASS: TestPoint_String/struct_data (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree/points",
+        "output": [
+            "PASS\n",
+            "coverage: 100.0% of statements\n",
+            "ok  \tgithub.com/kyroy/kdtree/points\t0.018s\tcoverage: 100.0% of statements\n"
+        ],
+        "result": "pass",
+        "elapsed": 21000000,
+        "coverage": 1
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew",
+        "output": [
+            "=== RUN   TestNew\n",
+            "--- PASS: TestNew (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew/nil",
+        "output": [
+            "=== RUN   TestNew/nil\n",
+            "    --- PASS: TestNew/nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew/empty",
+        "output": [
+            "=== RUN   TestNew/empty\n",
+            "    --- PASS: TestNew/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew/1",
+        "output": [
+            "=== RUN   TestNew/1\n",
+            "    --- PASS: TestNew/1 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew/2_equal",
+        "output": [
+            "=== RUN   TestNew/2_equal\n",
+            "    --- PASS: TestNew/2_equal (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestNew/sort_1_dim",
+        "output": [
+            "=== RUN   TestNew/sort_1_dim\n",
+            "    --- PASS: TestNew/sort_1_dim (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_String",
+        "output": [
+            "=== RUN   TestKDTree_String\n",
+            "--- PASS: TestKDTree_String (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_String/empty",
+        "output": [
+            "=== RUN   TestKDTree_String/empty\n",
+            "    --- PASS: TestKDTree_String/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_String/1_elem",
+        "output": [
+            "=== RUN   TestKDTree_String/1_elem\n",
+            "    --- PASS: TestKDTree_String/1_elem (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_String/2_elem",
+        "output": [
+            "=== RUN   TestKDTree_String/2_elem\n",
+            "    --- PASS: TestKDTree_String/2_elem (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_String/3_elem",
+        "output": [
+            "=== RUN   TestKDTree_String/3_elem\n",
+            "    --- PASS: TestKDTree_String/3_elem (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Insert",
+        "output": [
+            "=== RUN   TestKDTree_Insert\n",
+            "--- PASS: TestKDTree_Insert (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Insert/empty_tree",
+        "output": [
+            "=== RUN   TestKDTree_Insert/empty_tree\n",
+            "    --- PASS: TestKDTree_Insert/empty_tree (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Insert/1_dim",
+        "output": [
+            "=== RUN   TestKDTree_Insert/1_dim\n",
+            "    --- PASS: TestKDTree_Insert/1_dim (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_InsertWithGenerator",
+        "output": [
+            "=== RUN   TestKDTree_InsertWithGenerator\n",
+            "--- PASS: TestKDTree_InsertWithGenerator (0.08s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 80000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_InsertWithGenerator/p:10,k:5",
+        "output": [
+            "=== RUN   TestKDTree_InsertWithGenerator/p:10,k:5\n",
+            "    --- PASS: TestKDTree_InsertWithGenerator/p:10,k:5 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_InsertWithGenerator/p:100,k:5",
+        "output": [
+            "=== RUN   TestKDTree_InsertWithGenerator/p:100,k:5\n",
+            "    --- PASS: TestKDTree_InsertWithGenerator/p:100,k:5 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_InsertWithGenerator/p:1000,k:5",
+        "output": [
+            "=== RUN   TestKDTree_InsertWithGenerator/p:1000,k:5\n",
+            "    --- PASS: TestKDTree_InsertWithGenerator/p:1000,k:5 (0.08s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 80000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove",
+        "output": [
+            "=== RUN   TestKDTree_Remove\n",
+            "--- PASS: TestKDTree_Remove (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/empty_tree",
+        "output": [
+            "=== RUN   TestKDTree_Remove/empty_tree\n",
+            "    --- PASS: TestKDTree_Remove/empty_tree (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/nil_input",
+        "output": [
+            "=== RUN   TestKDTree_Remove/nil_input\n",
+            "    --- PASS: TestKDTree_Remove/nil_input (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_root",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_root\n",
+            "    --- PASS: TestKDTree_Remove/remove_root (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_root_with_children",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_root_with_children\n",
+            "    --- PASS: TestKDTree_Remove/remove_root_with_children (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/not_existing",
+        "output": [
+            "=== RUN   TestKDTree_Remove/not_existing\n",
+            "    --- PASS: TestKDTree_Remove/not_existing (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_leaf",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_leaf\n",
+            "    --- PASS: TestKDTree_Remove/remove_leaf (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_leaf#01",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_leaf#01\n",
+            "    --- PASS: TestKDTree_Remove/remove_leaf#01 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_1_replace,_right_child_nil",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_1_replace,_right_child_nil\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_1_replace,_right_child_nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_1_replace,_left_child_nil",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_1_replace,_left_child_nil\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_1_replace,_left_child_nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_1_replace",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_1_replace\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_1_replace (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_1_replace,_deep",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_1_replace,_deep\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_1_replace,_deep (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_1_replace,_deep#01",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_1_replace,_deep#01\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_1_replace,_deep#01 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_left_nil",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_left_nil\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_left_nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_with_sub_left_nil",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_with_sub_left_nil\n",
+            "    --- PASS: TestKDTree_Remove/remove_with_sub_left_nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_(3,1)_with_2_replace",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_(3,1)_with_2_replace\n",
+            "    --- PASS: TestKDTree_Remove/remove_(3,1)_with_2_replace (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3",
+        "output": [
+            "=== RUN   TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3\n",
+            "    --- PASS: TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Balance",
+        "output": [
+            "=== RUN   TestKDTree_Balance\n",
+            "--- PASS: TestKDTree_Balance (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_Balance/empty_tree",
+        "output": [
+            "=== RUN   TestKDTree_Balance/empty_tree\n",
+            "    --- PASS: TestKDTree_Balance/empty_tree (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode\n",
+            "--- PASS: TestKDTree_BalanceNoNilNode (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/0-\u003e1",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e1\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e1 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/0-\u003e3",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e3\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e3 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/0-\u003e7",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e7\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e7 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/0-\u003e15",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e15\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e15 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/5-\u003e1",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/5-\u003e1\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/5-\u003e1 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/32-\u003e3",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/32-\u003e3\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/32-\u003e3 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/17-\u003e7",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/17-\u003e7\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/17-\u003e7 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/17-\u003e15",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/17-\u003e15\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/17-\u003e15 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15",
+        "output": [
+            "=== RUN   TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15\n",
+            "    --- PASS: TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNN",
+        "output": [
+            "=== RUN   TestKDTree_KNN\n",
+            "--- PASS: TestKDTree_KNN (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNN/nil",
+        "output": [
+            "=== RUN   TestKDTree_KNN/nil\n",
+            "    --- PASS: TestKDTree_KNN/nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNN/empty",
+        "output": [
+            "=== RUN   TestKDTree_KNN/empty\n",
+            "    --- PASS: TestKDTree_KNN/empty (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNN/k_\u003e\u003e_points",
+        "output": [
+            "=== RUN   TestKDTree_KNN/k_\u003e\u003e_points\n",
+            "    --- PASS: TestKDTree_KNN/k_\u003e\u003e_points (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNN/small_2D_example",
+        "output": [
+            "=== RUN   TestKDTree_KNN/small_2D_example\n",
+            "    --- PASS: TestKDTree_KNN/small_2D_example (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator\n",
+            "--- PASS: TestKDTree_KNNWithGenerator (18.69s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 18690000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:100,k:5",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:100,k:5\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:100,k:5 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:1000,k:5",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:1000,k:5\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:1000,k:5 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:10000,k:5",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:10000,k:5\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:10000,k:5 (0.02s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 20000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:100000,k:5",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:100000,k:5\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:100000,k:5 (0.32s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 320000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:1000000,k:10",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:10\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:10 (5.67s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 5670000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:1000000,k:20",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:20\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:20 (5.48s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 5480000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_KNNWithGenerator/p:1000000,k:30",
+        "output": [
+            "=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:30\n",
+            "    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:30 (6.74s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 6740000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch\n",
+            "--- PASS: TestKDTree_RangeSearch (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/nil",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/nil\n",
+            "    --- PASS: TestKDTree_RangeSearch/nil (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/wrong_dim",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/wrong_dim\n",
+            "    --- PASS: TestKDTree_RangeSearch/wrong_dim (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/out_of_range_x_(lower)",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/out_of_range_x_(lower)\n",
+            "    --- PASS: TestKDTree_RangeSearch/out_of_range_x_(lower) (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/out_of_range_y_(lower)",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/out_of_range_y_(lower)\n",
+            "    --- PASS: TestKDTree_RangeSearch/out_of_range_y_(lower) (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/out_of_range_x_(higher)",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/out_of_range_x_(higher)\n",
+            "    --- PASS: TestKDTree_RangeSearch/out_of_range_x_(higher) (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearch/out_of_range_y_(higher)",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearch/out_of_range_y_(higher)\n",
+            "    --- PASS: TestKDTree_RangeSearch/out_of_range_y_(higher) (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator\n",
+            "--- PASS: TestKDTree_RangeSearchWithGenerator (7.38s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 7380000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100\n",
+            "    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100\n",
+            "    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100 (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100\n",
+            "    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100 (0.02s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 20000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500\n",
+            "    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500 (0.34s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 340000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "test": "TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500",
+        "output": [
+            "=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500\n",
+            "    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500 (6.87s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 6870000000,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/kdtree",
+        "output": [
+            "PASS\n",
+            "coverage: 100.0% of statements\n",
+            "ok  \tgithub.com/kyroy/kdtree\t26.226s\tcoverage: 100.0% of statements\n"
+        ],
+        "result": "pass",
+        "elapsed": 26232000000,
+        "coverage": 1
+    }
+]

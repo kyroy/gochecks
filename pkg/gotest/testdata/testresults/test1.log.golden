@@ -1,0 +1,37 @@
+[
+    {
+        "package": "github.com/kyroy/gochecks/converter/testdata/gotests/test1",
+        "test": "TestMe",
+        "output": [
+            "=== RUN   TestMe\n",
+            "--- PASS: TestMe (0.00s)\n"
+        ],
+        "result": "pass",
+        "elapsed": 0,
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/gochecks/converter/testdata/gotests/test1",
+        "test": "TestTwo",
+        "output": [
+            "=== RUN   TestTwo\n",
+            "--- FAIL: TestTwo (0.00s)\n",
+            "    t_test.go:10: my fail msg\n"
+        ],
+        "result": "fail",
+        "elapsed": 0,
+        "line": "t_test.go:10",
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/gochecks/converter/testdata/gotests/test1",
+        "output": [
+            "FAIL\n",
+            "coverage: 66.7% of statements\n",
+            "FAIL\tgithub.com/kyroy/gochecks/converter/testdata/gotests/test1\t0.007s\n"
+        ],
+        "result": "fail",
+        "elapsed": 7000000,
+        "coverage": 0.667
+    }
+]

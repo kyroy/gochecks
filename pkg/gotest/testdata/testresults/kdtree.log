@@ -1,0 +1,496 @@
+{"Time":"2019-01-07T19:22:15.726074+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange"}
+{"Time":"2019-01-07T19:22:15.727931+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange","Output":"=== RUN   TestNewRange\n"}
+{"Time":"2019-01-07T19:22:15.727959+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/nil"}
+{"Time":"2019-01-07T19:22:15.727969+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/nil","Output":"=== RUN   TestNewRange/nil\n"}
+{"Time":"2019-01-07T19:22:15.727976+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/uneven"}
+{"Time":"2019-01-07T19:22:15.727986+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/uneven","Output":"=== RUN   TestNewRange/uneven\n"}
+{"Time":"2019-01-07T19:22:15.727999+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/empty"}
+{"Time":"2019-01-07T19:22:15.728006+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/empty","Output":"=== RUN   TestNewRange/empty\n"}
+{"Time":"2019-01-07T19:22:15.728015+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/2d"}
+{"Time":"2019-01-07T19:22:15.728021+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/2d","Output":"=== RUN   TestNewRange/2d\n"}
+{"Time":"2019-01-07T19:22:15.728028+01:00","Action":"run","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/3d"}
+{"Time":"2019-01-07T19:22:15.728036+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/3d","Output":"=== RUN   TestNewRange/3d\n"}
+{"Time":"2019-01-07T19:22:15.728169+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange","Output":"--- PASS: TestNewRange (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.728195+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/nil","Output":"    --- PASS: TestNewRange/nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.728204+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728221+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/uneven","Output":"    --- PASS: TestNewRange/uneven (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.72823+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/uneven","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728237+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/empty","Output":"    --- PASS: TestNewRange/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.728245+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728252+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/2d","Output":"    --- PASS: TestNewRange/2d (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.72826+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/2d","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728269+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/3d","Output":"    --- PASS: TestNewRange/3d (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.728289+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange/3d","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728297+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Test":"TestNewRange","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.728304+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Output":"PASS\n"}
+{"Time":"2019-01-07T19:22:15.728312+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Output":"coverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:15.728722+01:00","Action":"output","Package":"github.com/kyroy/kdtree/kdrange","Output":"ok  \tgithub.com/kyroy/kdtree/kdrange\t0.019s\tcoverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:15.731363+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/kdrange","Elapsed":0.022}
+{"Time":"2019-01-07T19:22:15.734515+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_Dimensions"}
+{"Time":"2019-01-07T19:22:15.734548+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_Dimensions","Output":"=== RUN   TestPoint2D_Dimensions\n"}
+{"Time":"2019-01-07T19:22:15.734568+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_Dimensions","Output":"--- PASS: TestPoint2D_Dimensions (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734576+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_Dimensions","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734584+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension"}
+{"Time":"2019-01-07T19:22:15.73459+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension","Output":"=== RUN   TestPoint2D_TestDimension\n"}
+{"Time":"2019-01-07T19:22:15.734611+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/empty"}
+{"Time":"2019-01-07T19:22:15.734619+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/empty","Output":"=== RUN   TestPoint2D_TestDimension/empty\n"}
+{"Time":"2019-01-07T19:22:15.734638+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/X"}
+{"Time":"2019-01-07T19:22:15.734644+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/X","Output":"=== RUN   TestPoint2D_TestDimension/X\n"}
+{"Time":"2019-01-07T19:22:15.734667+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/Y"}
+{"Time":"2019-01-07T19:22:15.734674+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/Y","Output":"=== RUN   TestPoint2D_TestDimension/Y\n"}
+{"Time":"2019-01-07T19:22:15.73469+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/XY"}
+{"Time":"2019-01-07T19:22:15.734743+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/XY","Output":"=== RUN   TestPoint2D_TestDimension/XY\n"}
+{"Time":"2019-01-07T19:22:15.734756+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension","Output":"--- PASS: TestPoint2D_TestDimension (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734764+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/empty","Output":"    --- PASS: TestPoint2D_TestDimension/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734776+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734783+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/X","Output":"    --- PASS: TestPoint2D_TestDimension/X (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734839+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/X","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734853+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/Y","Output":"    --- PASS: TestPoint2D_TestDimension/Y (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734865+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/Y","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734873+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/XY","Output":"    --- PASS: TestPoint2D_TestDimension/XY (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.734881+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension/XY","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734887+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_TestDimension","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.734895+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String"}
+{"Time":"2019-01-07T19:22:15.734901+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String","Output":"=== RUN   TestPoint2D_String\n"}
+{"Time":"2019-01-07T19:22:15.734908+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/empty"}
+{"Time":"2019-01-07T19:22:15.734917+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/empty","Output":"=== RUN   TestPoint2D_String/empty\n"}
+{"Time":"2019-01-07T19:22:15.734931+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/X"}
+{"Time":"2019-01-07T19:22:15.734939+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/X","Output":"=== RUN   TestPoint2D_String/X\n"}
+{"Time":"2019-01-07T19:22:15.73561+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/Y"}
+{"Time":"2019-01-07T19:22:15.735626+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/Y","Output":"=== RUN   TestPoint2D_String/Y\n"}
+{"Time":"2019-01-07T19:22:15.735637+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/XY"}
+{"Time":"2019-01-07T19:22:15.735645+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/XY","Output":"=== RUN   TestPoint2D_String/XY\n"}
+{"Time":"2019-01-07T19:22:15.735653+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String","Output":"--- PASS: TestPoint2D_String (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735663+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/empty","Output":"    --- PASS: TestPoint2D_String/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735682+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735696+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/X","Output":"    --- PASS: TestPoint2D_String/X (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735704+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/X","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735711+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/Y","Output":"    --- PASS: TestPoint2D_String/Y (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735718+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/Y","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735726+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/XY","Output":"    --- PASS: TestPoint2D_String/XY (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735752+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String/XY","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735767+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint2D_String","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735774+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_Dimensions"}
+{"Time":"2019-01-07T19:22:15.73578+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_Dimensions","Output":"=== RUN   TestPoint3D_Dimensions\n"}
+{"Time":"2019-01-07T19:22:15.735789+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_Dimensions","Output":"--- PASS: TestPoint3D_Dimensions (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735796+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_Dimensions","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735802+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension"}
+{"Time":"2019-01-07T19:22:15.735846+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension","Output":"=== RUN   TestPoint3D_TestDimension\n"}
+{"Time":"2019-01-07T19:22:15.735861+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/empty"}
+{"Time":"2019-01-07T19:22:15.735869+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/empty","Output":"=== RUN   TestPoint3D_TestDimension/empty\n"}
+{"Time":"2019-01-07T19:22:15.735883+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/X"}
+{"Time":"2019-01-07T19:22:15.73589+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/X","Output":"=== RUN   TestPoint3D_TestDimension/X\n"}
+{"Time":"2019-01-07T19:22:15.735897+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Y"}
+{"Time":"2019-01-07T19:22:15.735905+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Y","Output":"=== RUN   TestPoint3D_TestDimension/Y\n"}
+{"Time":"2019-01-07T19:22:15.735912+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Z"}
+{"Time":"2019-01-07T19:22:15.735919+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Z","Output":"=== RUN   TestPoint3D_TestDimension/Z\n"}
+{"Time":"2019-01-07T19:22:15.735926+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/XYZ"}
+{"Time":"2019-01-07T19:22:15.735933+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/XYZ","Output":"=== RUN   TestPoint3D_TestDimension/XYZ\n"}
+{"Time":"2019-01-07T19:22:15.735941+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension","Output":"--- PASS: TestPoint3D_TestDimension (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735975+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/empty","Output":"    --- PASS: TestPoint3D_TestDimension/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.735988+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.735996+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/X","Output":"    --- PASS: TestPoint3D_TestDimension/X (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736005+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/X","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736014+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Y","Output":"    --- PASS: TestPoint3D_TestDimension/Y (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736043+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Y","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736053+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Z","Output":"    --- PASS: TestPoint3D_TestDimension/Z (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736061+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/Z","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736069+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/XYZ","Output":"    --- PASS: TestPoint3D_TestDimension/XYZ (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736096+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension/XYZ","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736105+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_TestDimension","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736112+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String"}
+{"Time":"2019-01-07T19:22:15.736118+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String","Output":"=== RUN   TestPoint3D_String\n"}
+{"Time":"2019-01-07T19:22:15.736126+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/empty"}
+{"Time":"2019-01-07T19:22:15.736132+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/empty","Output":"=== RUN   TestPoint3D_String/empty\n"}
+{"Time":"2019-01-07T19:22:15.73614+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/X"}
+{"Time":"2019-01-07T19:22:15.736147+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/X","Output":"=== RUN   TestPoint3D_String/X\n"}
+{"Time":"2019-01-07T19:22:15.736193+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Y"}
+{"Time":"2019-01-07T19:22:15.736201+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Y","Output":"=== RUN   TestPoint3D_String/Y\n"}
+{"Time":"2019-01-07T19:22:15.736206+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Z"}
+{"Time":"2019-01-07T19:22:15.73621+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Z","Output":"=== RUN   TestPoint3D_String/Z\n"}
+{"Time":"2019-01-07T19:22:15.736215+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/XY"}
+{"Time":"2019-01-07T19:22:15.736219+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/XY","Output":"=== RUN   TestPoint3D_String/XY\n"}
+{"Time":"2019-01-07T19:22:15.736224+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String","Output":"--- PASS: TestPoint3D_String (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736264+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/empty","Output":"    --- PASS: TestPoint3D_String/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736273+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736283+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/X","Output":"    --- PASS: TestPoint3D_String/X (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.73629+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/X","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736297+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Y","Output":"    --- PASS: TestPoint3D_String/Y (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736317+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Y","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736331+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Z","Output":"    --- PASS: TestPoint3D_String/Z (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736338+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/Z","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736345+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/XY","Output":"    --- PASS: TestPoint3D_String/XY (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736352+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String/XY","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736359+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint3D_String","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736365+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint"}
+{"Time":"2019-01-07T19:22:15.736382+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint","Output":"=== RUN   TestNewPoint\n"}
+{"Time":"2019-01-07T19:22:15.73639+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint/nil_nil"}
+{"Time":"2019-01-07T19:22:15.736396+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint/nil_nil","Output":"=== RUN   TestNewPoint/nil_nil\n"}
+{"Time":"2019-01-07T19:22:15.736403+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint","Output":"--- PASS: TestNewPoint (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736414+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint/nil_nil","Output":"    --- PASS: TestNewPoint/nil_nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736422+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint/nil_nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.73643+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestNewPoint","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736436+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions"}
+{"Time":"2019-01-07T19:22:15.736443+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions","Output":"=== RUN   TestPoint_Dimensions\n"}
+{"Time":"2019-01-07T19:22:15.73645+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/empty"}
+{"Time":"2019-01-07T19:22:15.73647+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/empty","Output":"=== RUN   TestPoint_Dimensions/empty\n"}
+{"Time":"2019-01-07T19:22:15.736481+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/1"}
+{"Time":"2019-01-07T19:22:15.736488+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/1","Output":"=== RUN   TestPoint_Dimensions/1\n"}
+{"Time":"2019-01-07T19:22:15.736494+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/2"}
+{"Time":"2019-01-07T19:22:15.736503+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/2","Output":"=== RUN   TestPoint_Dimensions/2\n"}
+{"Time":"2019-01-07T19:22:15.73651+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/6"}
+{"Time":"2019-01-07T19:22:15.736516+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/6","Output":"=== RUN   TestPoint_Dimensions/6\n"}
+{"Time":"2019-01-07T19:22:15.736523+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions","Output":"--- PASS: TestPoint_Dimensions (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736577+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/empty","Output":"    --- PASS: TestPoint_Dimensions/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.73659+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736598+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/1","Output":"    --- PASS: TestPoint_Dimensions/1 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736608+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/1","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736619+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/2","Output":"    --- PASS: TestPoint_Dimensions/2 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736626+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/2","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736631+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/6","Output":"    --- PASS: TestPoint_Dimensions/6 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736638+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions/6","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736643+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimensions","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736649+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension"}
+{"Time":"2019-01-07T19:22:15.736655+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension","Output":"=== RUN   TestPoint_Dimension\n"}
+{"Time":"2019-01-07T19:22:15.736669+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/empty"}
+{"Time":"2019-01-07T19:22:15.736692+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/empty","Output":"=== RUN   TestPoint_Dimension/empty\n"}
+{"Time":"2019-01-07T19:22:15.736701+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/1"}
+{"Time":"2019-01-07T19:22:15.736707+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/1","Output":"=== RUN   TestPoint_Dimension/1\n"}
+{"Time":"2019-01-07T19:22:15.736715+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/2"}
+{"Time":"2019-01-07T19:22:15.736721+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/2","Output":"=== RUN   TestPoint_Dimension/2\n"}
+{"Time":"2019-01-07T19:22:15.736729+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/6"}
+{"Time":"2019-01-07T19:22:15.736735+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/6","Output":"=== RUN   TestPoint_Dimension/6\n"}
+{"Time":"2019-01-07T19:22:15.736764+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension","Output":"--- PASS: TestPoint_Dimension (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736778+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/empty","Output":"    --- PASS: TestPoint_Dimension/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736788+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736795+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/1","Output":"    --- PASS: TestPoint_Dimension/1 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736802+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/1","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736819+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/2","Output":"    --- PASS: TestPoint_Dimension/2 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736828+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/2","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736835+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/6","Output":"    --- PASS: TestPoint_Dimension/6 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.736842+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension/6","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736848+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_Dimension","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.736854+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String"}
+{"Time":"2019-01-07T19:22:15.736861+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String","Output":"=== RUN   TestPoint_String\n"}
+{"Time":"2019-01-07T19:22:15.736909+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/empty"}
+{"Time":"2019-01-07T19:22:15.736923+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/empty","Output":"=== RUN   TestPoint_String/empty\n"}
+{"Time":"2019-01-07T19:22:15.736934+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/string_data"}
+{"Time":"2019-01-07T19:22:15.736941+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/string_data","Output":"=== RUN   TestPoint_String/string_data\n"}
+{"Time":"2019-01-07T19:22:15.736948+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/float_data"}
+{"Time":"2019-01-07T19:22:15.736954+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/float_data","Output":"=== RUN   TestPoint_String/float_data\n"}
+{"Time":"2019-01-07T19:22:15.736984+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/int_data"}
+{"Time":"2019-01-07T19:22:15.736994+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/int_data","Output":"=== RUN   TestPoint_String/int_data\n"}
+{"Time":"2019-01-07T19:22:15.737015+01:00","Action":"run","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/struct_data"}
+{"Time":"2019-01-07T19:22:15.737025+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/struct_data","Output":"=== RUN   TestPoint_String/struct_data\n"}
+{"Time":"2019-01-07T19:22:15.737033+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String","Output":"--- PASS: TestPoint_String (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.737042+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/empty","Output":"    --- PASS: TestPoint_String/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.737064+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737073+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/string_data","Output":"    --- PASS: TestPoint_String/string_data (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.737084+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/string_data","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737092+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/float_data","Output":"    --- PASS: TestPoint_String/float_data (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.7371+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/float_data","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737108+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/int_data","Output":"    --- PASS: TestPoint_String/int_data (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.737132+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/int_data","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737143+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/struct_data","Output":"    --- PASS: TestPoint_String/struct_data (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.737151+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String/struct_data","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737155+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Test":"TestPoint_String","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.737159+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Output":"PASS\n"}
+{"Time":"2019-01-07T19:22:15.737186+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Output":"coverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:15.737338+01:00","Action":"output","Package":"github.com/kyroy/kdtree/points","Output":"ok  \tgithub.com/kyroy/kdtree/points\t0.018s\tcoverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:15.737909+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew"}
+{"Time":"2019-01-07T19:22:15.737948+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew","Output":"=== RUN   TestNew\n"}
+{"Time":"2019-01-07T19:22:15.737969+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew/nil"}
+{"Time":"2019-01-07T19:22:15.737977+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/nil","Output":"=== RUN   TestNew/nil\n"}
+{"Time":"2019-01-07T19:22:15.738099+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew/empty"}
+{"Time":"2019-01-07T19:22:15.738114+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/empty","Output":"=== RUN   TestNew/empty\n"}
+{"Time":"2019-01-07T19:22:15.738126+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew/1"}
+{"Time":"2019-01-07T19:22:15.738133+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/1","Output":"=== RUN   TestNew/1\n"}
+{"Time":"2019-01-07T19:22:15.738177+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew/2_equal"}
+{"Time":"2019-01-07T19:22:15.738191+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/2_equal","Output":"=== RUN   TestNew/2_equal\n"}
+{"Time":"2019-01-07T19:22:15.738212+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestNew/sort_1_dim"}
+{"Time":"2019-01-07T19:22:15.73822+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/sort_1_dim","Output":"=== RUN   TestNew/sort_1_dim\n"}
+{"Time":"2019-01-07T19:22:15.738233+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew","Output":"--- PASS: TestNew (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738244+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/nil","Output":"    --- PASS: TestNew/nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738252+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew/nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738266+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/empty","Output":"    --- PASS: TestNew/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738274+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738281+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/1","Output":"    --- PASS: TestNew/1 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738288+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew/1","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738294+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/2_equal","Output":"    --- PASS: TestNew/2_equal (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738302+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew/2_equal","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738308+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestNew/sort_1_dim","Output":"    --- PASS: TestNew/sort_1_dim (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738327+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew/sort_1_dim","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738351+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestNew","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738359+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String"}
+{"Time":"2019-01-07T19:22:15.738365+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String","Output":"=== RUN   TestKDTree_String\n"}
+{"Time":"2019-01-07T19:22:15.738372+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/empty"}
+{"Time":"2019-01-07T19:22:15.738378+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/empty","Output":"=== RUN   TestKDTree_String/empty\n"}
+{"Time":"2019-01-07T19:22:15.738388+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/1_elem"}
+{"Time":"2019-01-07T19:22:15.738394+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/1_elem","Output":"=== RUN   TestKDTree_String/1_elem\n"}
+{"Time":"2019-01-07T19:22:15.738461+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/2_elem"}
+{"Time":"2019-01-07T19:22:15.738471+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/2_elem","Output":"=== RUN   TestKDTree_String/2_elem\n"}
+{"Time":"2019-01-07T19:22:15.738501+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/3_elem"}
+{"Time":"2019-01-07T19:22:15.738509+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/3_elem","Output":"=== RUN   TestKDTree_String/3_elem\n"}
+{"Time":"2019-01-07T19:22:15.738555+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String","Output":"--- PASS: TestKDTree_String (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738585+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/empty","Output":"    --- PASS: TestKDTree_String/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738596+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738603+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/1_elem","Output":"    --- PASS: TestKDTree_String/1_elem (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738608+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/1_elem","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738612+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/2_elem","Output":"    --- PASS: TestKDTree_String/2_elem (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738618+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/2_elem","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738622+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/3_elem","Output":"    --- PASS: TestKDTree_String/3_elem (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738634+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String/3_elem","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738702+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_String","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738733+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert"}
+{"Time":"2019-01-07T19:22:15.738744+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert","Output":"=== RUN   TestKDTree_Insert\n"}
+{"Time":"2019-01-07T19:22:15.738756+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/empty_tree"}
+{"Time":"2019-01-07T19:22:15.738775+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/empty_tree","Output":"=== RUN   TestKDTree_Insert/empty_tree\n"}
+{"Time":"2019-01-07T19:22:15.738794+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/1_dim"}
+{"Time":"2019-01-07T19:22:15.738801+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/1_dim","Output":"=== RUN   TestKDTree_Insert/1_dim\n"}
+{"Time":"2019-01-07T19:22:15.738808+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert","Output":"--- PASS: TestKDTree_Insert (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738816+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/empty_tree","Output":"    --- PASS: TestKDTree_Insert/empty_tree (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738831+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/empty_tree","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738843+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/1_dim","Output":"    --- PASS: TestKDTree_Insert/1_dim (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.738848+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert/1_dim","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738852+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Insert","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.738857+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator"}
+{"Time":"2019-01-07T19:22:15.738873+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator","Output":"=== RUN   TestKDTree_InsertWithGenerator\n"}
+{"Time":"2019-01-07T19:22:15.738907+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:10,k:5"}
+{"Time":"2019-01-07T19:22:15.738915+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:10,k:5","Output":"=== RUN   TestKDTree_InsertWithGenerator/p:10,k:5\n"}
+{"Time":"2019-01-07T19:22:15.738956+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:100,k:5"}
+{"Time":"2019-01-07T19:22:15.738968+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:100,k:5","Output":"=== RUN   TestKDTree_InsertWithGenerator/p:100,k:5\n"}
+{"Time":"2019-01-07T19:22:15.739934+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:1000,k:5"}
+{"Time":"2019-01-07T19:22:15.739967+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:1000,k:5","Output":"=== RUN   TestKDTree_InsertWithGenerator/p:1000,k:5\n"}
+{"Time":"2019-01-07T19:22:15.740062+01:00","Action":"pass","Package":"github.com/kyroy/kdtree/points","Elapsed":0.021}
+{"Time":"2019-01-07T19:22:15.822085+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator","Output":"--- PASS: TestKDTree_InsertWithGenerator (0.08s)\n"}
+{"Time":"2019-01-07T19:22:15.822158+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:10,k:5","Output":"    --- PASS: TestKDTree_InsertWithGenerator/p:10,k:5 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.822178+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:10,k:5","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.822196+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:100,k:5","Output":"    --- PASS: TestKDTree_InsertWithGenerator/p:100,k:5 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.822205+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:100,k:5","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.822213+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:1000,k:5","Output":"    --- PASS: TestKDTree_InsertWithGenerator/p:1000,k:5 (0.08s)\n"}
+{"Time":"2019-01-07T19:22:15.82225+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator/p:1000,k:5","Elapsed":0.08}
+{"Time":"2019-01-07T19:22:15.822267+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_InsertWithGenerator","Elapsed":0.08}
+{"Time":"2019-01-07T19:22:15.822275+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove"}
+{"Time":"2019-01-07T19:22:15.822284+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove","Output":"=== RUN   TestKDTree_Remove\n"}
+{"Time":"2019-01-07T19:22:15.822299+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/empty_tree"}
+{"Time":"2019-01-07T19:22:15.822307+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/empty_tree","Output":"=== RUN   TestKDTree_Remove/empty_tree\n"}
+{"Time":"2019-01-07T19:22:15.82239+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/nil_input"}
+{"Time":"2019-01-07T19:22:15.822399+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/nil_input","Output":"=== RUN   TestKDTree_Remove/nil_input\n"}
+{"Time":"2019-01-07T19:22:15.822407+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root"}
+{"Time":"2019-01-07T19:22:15.822414+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root","Output":"=== RUN   TestKDTree_Remove/remove_root\n"}
+{"Time":"2019-01-07T19:22:15.822426+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root_with_children"}
+{"Time":"2019-01-07T19:22:15.822432+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root_with_children","Output":"=== RUN   TestKDTree_Remove/remove_root_with_children\n"}
+{"Time":"2019-01-07T19:22:15.822463+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/not_existing"}
+{"Time":"2019-01-07T19:22:15.822471+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/not_existing","Output":"=== RUN   TestKDTree_Remove/not_existing\n"}
+{"Time":"2019-01-07T19:22:15.822485+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf"}
+{"Time":"2019-01-07T19:22:15.822492+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf","Output":"=== RUN   TestKDTree_Remove/remove_leaf\n"}
+{"Time":"2019-01-07T19:22:15.822594+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf#01"}
+{"Time":"2019-01-07T19:22:15.82261+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf#01","Output":"=== RUN   TestKDTree_Remove/remove_leaf#01\n"}
+{"Time":"2019-01-07T19:22:15.822682+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_right_child_nil"}
+{"Time":"2019-01-07T19:22:15.822691+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_right_child_nil","Output":"=== RUN   TestKDTree_Remove/remove_with_1_replace,_right_child_nil\n"}
+{"Time":"2019-01-07T19:22:15.822795+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_left_child_nil"}
+{"Time":"2019-01-07T19:22:15.822807+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_left_child_nil","Output":"=== RUN   TestKDTree_Remove/remove_with_1_replace,_left_child_nil\n"}
+{"Time":"2019-01-07T19:22:15.822917+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace"}
+{"Time":"2019-01-07T19:22:15.822931+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace","Output":"=== RUN   TestKDTree_Remove/remove_with_1_replace\n"}
+{"Time":"2019-01-07T19:22:15.82301+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep"}
+{"Time":"2019-01-07T19:22:15.823023+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep","Output":"=== RUN   TestKDTree_Remove/remove_with_1_replace,_deep\n"}
+{"Time":"2019-01-07T19:22:15.823134+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep#01"}
+{"Time":"2019-01-07T19:22:15.82315+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep#01","Output":"=== RUN   TestKDTree_Remove/remove_with_1_replace,_deep#01\n"}
+{"Time":"2019-01-07T19:22:15.82324+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_left_nil"}
+{"Time":"2019-01-07T19:22:15.823255+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_left_nil","Output":"=== RUN   TestKDTree_Remove/remove_with_left_nil\n"}
+{"Time":"2019-01-07T19:22:15.823319+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_sub_left_nil"}
+{"Time":"2019-01-07T19:22:15.823331+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_sub_left_nil","Output":"=== RUN   TestKDTree_Remove/remove_with_sub_left_nil\n"}
+{"Time":"2019-01-07T19:22:15.823394+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(3,1)_with_2_replace"}
+{"Time":"2019-01-07T19:22:15.823405+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(3,1)_with_2_replace","Output":"=== RUN   TestKDTree_Remove/remove_(3,1)_with_2_replace\n"}
+{"Time":"2019-01-07T19:22:15.823498+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3"}
+{"Time":"2019-01-07T19:22:15.82351+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3","Output":"=== RUN   TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3\n"}
+{"Time":"2019-01-07T19:22:15.823597+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove","Output":"--- PASS: TestKDTree_Remove (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823615+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/empty_tree","Output":"    --- PASS: TestKDTree_Remove/empty_tree (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823625+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/empty_tree","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823634+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/nil_input","Output":"    --- PASS: TestKDTree_Remove/nil_input (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823643+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/nil_input","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.82365+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root","Output":"    --- PASS: TestKDTree_Remove/remove_root (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823659+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823666+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root_with_children","Output":"    --- PASS: TestKDTree_Remove/remove_root_with_children (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823675+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_root_with_children","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823685+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/not_existing","Output":"    --- PASS: TestKDTree_Remove/not_existing (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823693+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/not_existing","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823727+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf","Output":"    --- PASS: TestKDTree_Remove/remove_leaf (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823742+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823751+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf#01","Output":"    --- PASS: TestKDTree_Remove/remove_leaf#01 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823762+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_leaf#01","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823769+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_right_child_nil","Output":"    --- PASS: TestKDTree_Remove/remove_with_1_replace,_right_child_nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.82379+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_right_child_nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823798+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_left_child_nil","Output":"    --- PASS: TestKDTree_Remove/remove_with_1_replace,_left_child_nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823807+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_left_child_nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823815+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace","Output":"    --- PASS: TestKDTree_Remove/remove_with_1_replace (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823822+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823829+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep","Output":"    --- PASS: TestKDTree_Remove/remove_with_1_replace,_deep (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823851+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823859+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep#01","Output":"    --- PASS: TestKDTree_Remove/remove_with_1_replace,_deep#01 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823868+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_1_replace,_deep#01","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823875+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_left_nil","Output":"    --- PASS: TestKDTree_Remove/remove_with_left_nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823882+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_left_nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823913+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_sub_left_nil","Output":"    --- PASS: TestKDTree_Remove/remove_with_sub_left_nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823929+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_with_sub_left_nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823937+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(3,1)_with_2_replace","Output":"    --- PASS: TestKDTree_Remove/remove_(3,1)_with_2_replace (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823946+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(3,1)_with_2_replace","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823953+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3","Output":"    --- PASS: TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.823985+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove/remove_(5,4)_with_1_replace,_deep_3","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.823994+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Remove","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824001+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance"}
+{"Time":"2019-01-07T19:22:15.824008+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance","Output":"=== RUN   TestKDTree_Balance\n"}
+{"Time":"2019-01-07T19:22:15.824015+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance/empty_tree"}
+{"Time":"2019-01-07T19:22:15.824029+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance/empty_tree","Output":"=== RUN   TestKDTree_Balance/empty_tree\n"}
+{"Time":"2019-01-07T19:22:15.824038+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance","Output":"--- PASS: TestKDTree_Balance (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824046+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance/empty_tree","Output":"    --- PASS: TestKDTree_Balance/empty_tree (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824054+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance/empty_tree","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824061+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_Balance","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824067+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode"}
+{"Time":"2019-01-07T19:22:15.824074+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode","Output":"=== RUN   TestKDTree_BalanceNoNilNode\n"}
+{"Time":"2019-01-07T19:22:15.824082+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e1"}
+{"Time":"2019-01-07T19:22:15.824093+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e1","Output":"=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e1\n"}
+{"Time":"2019-01-07T19:22:15.824102+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e3"}
+{"Time":"2019-01-07T19:22:15.824108+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e3","Output":"=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e3\n"}
+{"Time":"2019-01-07T19:22:15.824115+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e7"}
+{"Time":"2019-01-07T19:22:15.824122+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e7","Output":"=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e7\n"}
+{"Time":"2019-01-07T19:22:15.824132+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e15"}
+{"Time":"2019-01-07T19:22:15.82414+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e15","Output":"=== RUN   TestKDTree_BalanceNoNilNode/0-\u003e15\n"}
+{"Time":"2019-01-07T19:22:15.824148+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/5-\u003e1"}
+{"Time":"2019-01-07T19:22:15.824154+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/5-\u003e1","Output":"=== RUN   TestKDTree_BalanceNoNilNode/5-\u003e1\n"}
+{"Time":"2019-01-07T19:22:15.824204+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/32-\u003e3"}
+{"Time":"2019-01-07T19:22:15.824216+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/32-\u003e3","Output":"=== RUN   TestKDTree_BalanceNoNilNode/32-\u003e3\n"}
+{"Time":"2019-01-07T19:22:15.824227+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e7"}
+{"Time":"2019-01-07T19:22:15.824234+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e7","Output":"=== RUN   TestKDTree_BalanceNoNilNode/17-\u003e7\n"}
+{"Time":"2019-01-07T19:22:15.824294+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e15"}
+{"Time":"2019-01-07T19:22:15.824305+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e15","Output":"=== RUN   TestKDTree_BalanceNoNilNode/17-\u003e15\n"}
+{"Time":"2019-01-07T19:22:15.824413+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15"}
+{"Time":"2019-01-07T19:22:15.824435+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15","Output":"=== RUN   TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15\n"}
+{"Time":"2019-01-07T19:22:15.82452+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode","Output":"--- PASS: TestKDTree_BalanceNoNilNode (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824542+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e1","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e1 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824552+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e1","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.82456+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e3","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e3 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824565+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e3","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.82457+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e7","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e7 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824595+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e7","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824606+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e15","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/0-\u003e15 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824617+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/0-\u003e15","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824624+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/5-\u003e1","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/5-\u003e1 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824631+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/5-\u003e1","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824656+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/32-\u003e3","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/32-\u003e3 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824669+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/32-\u003e3","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.82468+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e7","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/17-\u003e7 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824688+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e7","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824695+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e15","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/17-\u003e15 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824703+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/17-\u003e15","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824709+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15","Output":"    --- PASS: TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824754+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode/50-\u003e8-\u003e15","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824763+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_BalanceNoNilNode","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824772+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN"}
+{"Time":"2019-01-07T19:22:15.824781+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN","Output":"=== RUN   TestKDTree_KNN\n"}
+{"Time":"2019-01-07T19:22:15.824789+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/nil"}
+{"Time":"2019-01-07T19:22:15.824796+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/nil","Output":"=== RUN   TestKDTree_KNN/nil\n"}
+{"Time":"2019-01-07T19:22:15.824803+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/empty"}
+{"Time":"2019-01-07T19:22:15.82481+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/empty","Output":"=== RUN   TestKDTree_KNN/empty\n"}
+{"Time":"2019-01-07T19:22:15.824817+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/k_\u003e\u003e_points"}
+{"Time":"2019-01-07T19:22:15.824824+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/k_\u003e\u003e_points","Output":"=== RUN   TestKDTree_KNN/k_\u003e\u003e_points\n"}
+{"Time":"2019-01-07T19:22:15.824832+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/small_2D_example"}
+{"Time":"2019-01-07T19:22:15.824838+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/small_2D_example","Output":"=== RUN   TestKDTree_KNN/small_2D_example\n"}
+{"Time":"2019-01-07T19:22:15.82485+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN","Output":"--- PASS: TestKDTree_KNN (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824876+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/nil","Output":"    --- PASS: TestKDTree_KNN/nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824885+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824892+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/empty","Output":"    --- PASS: TestKDTree_KNN/empty (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824899+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/empty","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824941+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/k_\u003e\u003e_points","Output":"    --- PASS: TestKDTree_KNN/k_\u003e\u003e_points (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.82495+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/k_\u003e\u003e_points","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824957+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/small_2D_example","Output":"    --- PASS: TestKDTree_KNN/small_2D_example (0.00s)\n"}
+{"Time":"2019-01-07T19:22:15.824964+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN/small_2D_example","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.82497+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNN","Elapsed":0}
+{"Time":"2019-01-07T19:22:15.824977+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator"}
+{"Time":"2019-01-07T19:22:15.824983+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator","Output":"=== RUN   TestKDTree_KNNWithGenerator\n"}
+{"Time":"2019-01-07T19:22:16.299756+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100,k:5"}
+{"Time":"2019-01-07T19:22:16.299795+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100,k:5","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:100,k:5\n"}
+{"Time":"2019-01-07T19:22:16.299899+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000,k:5"}
+{"Time":"2019-01-07T19:22:16.299949+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000,k:5","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:1000,k:5\n"}
+{"Time":"2019-01-07T19:22:16.301235+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:10000,k:5"}
+{"Time":"2019-01-07T19:22:16.30126+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:10000,k:5","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:10000,k:5\n"}
+{"Time":"2019-01-07T19:22:16.319415+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100000,k:5"}
+{"Time":"2019-01-07T19:22:16.319455+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100000,k:5","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:100000,k:5\n"}
+{"Time":"2019-01-07T19:22:16.636732+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:10"}
+{"Time":"2019-01-07T19:22:16.636776+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:10","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:10\n"}
+{"Time":"2019-01-07T19:22:22.302001+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:20"}
+{"Time":"2019-01-07T19:22:22.302033+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:20","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:20\n"}
+{"Time":"2019-01-07T19:22:27.779714+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:30"}
+{"Time":"2019-01-07T19:22:27.779747+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:30","Output":"=== RUN   TestKDTree_KNNWithGenerator/p:1000000,k:30\n"}
+{"Time":"2019-01-07T19:22:34.518506+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator","Output":"--- PASS: TestKDTree_KNNWithGenerator (18.69s)\n"}
+{"Time":"2019-01-07T19:22:34.518543+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100,k:5","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:100,k:5 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.518553+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100,k:5","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.518561+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000,k:5","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:1000,k:5 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.518575+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000,k:5","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.518582+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:10000,k:5","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:10000,k:5 (0.02s)\n"}
+{"Time":"2019-01-07T19:22:34.51866+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:10000,k:5","Elapsed":0.02}
+{"Time":"2019-01-07T19:22:34.518679+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100000,k:5","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:100000,k:5 (0.32s)\n"}
+{"Time":"2019-01-07T19:22:34.518688+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:100000,k:5","Elapsed":0.32}
+{"Time":"2019-01-07T19:22:34.518696+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:10","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:10 (5.67s)\n"}
+{"Time":"2019-01-07T19:22:34.518705+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:10","Elapsed":5.67}
+{"Time":"2019-01-07T19:22:34.518771+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:20","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:20 (5.48s)\n"}
+{"Time":"2019-01-07T19:22:34.51879+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:20","Elapsed":5.48}
+{"Time":"2019-01-07T19:22:34.518805+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:30","Output":"    --- PASS: TestKDTree_KNNWithGenerator/p:1000000,k:30 (6.74s)\n"}
+{"Time":"2019-01-07T19:22:34.518826+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator/p:1000000,k:30","Elapsed":6.74}
+{"Time":"2019-01-07T19:22:34.518833+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_KNNWithGenerator","Elapsed":18.69}
+{"Time":"2019-01-07T19:22:34.51884+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch"}
+{"Time":"2019-01-07T19:22:34.518849+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch","Output":"=== RUN   TestKDTree_RangeSearch\n"}
+{"Time":"2019-01-07T19:22:34.518862+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/nil"}
+{"Time":"2019-01-07T19:22:34.518869+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/nil","Output":"=== RUN   TestKDTree_RangeSearch/nil\n"}
+{"Time":"2019-01-07T19:22:34.518876+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/wrong_dim"}
+{"Time":"2019-01-07T19:22:34.518895+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/wrong_dim","Output":"=== RUN   TestKDTree_RangeSearch/wrong_dim\n"}
+{"Time":"2019-01-07T19:22:34.518903+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(lower)"}
+{"Time":"2019-01-07T19:22:34.51891+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(lower)","Output":"=== RUN   TestKDTree_RangeSearch/out_of_range_x_(lower)\n"}
+{"Time":"2019-01-07T19:22:34.51892+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(lower)"}
+{"Time":"2019-01-07T19:22:34.518928+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(lower)","Output":"=== RUN   TestKDTree_RangeSearch/out_of_range_y_(lower)\n"}
+{"Time":"2019-01-07T19:22:34.518938+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(higher)"}
+{"Time":"2019-01-07T19:22:34.518949+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(higher)","Output":"=== RUN   TestKDTree_RangeSearch/out_of_range_x_(higher)\n"}
+{"Time":"2019-01-07T19:22:34.518971+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(higher)"}
+{"Time":"2019-01-07T19:22:34.518981+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(higher)","Output":"=== RUN   TestKDTree_RangeSearch/out_of_range_y_(higher)\n"}
+{"Time":"2019-01-07T19:22:34.518991+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch","Output":"--- PASS: TestKDTree_RangeSearch (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.518999+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/nil","Output":"    --- PASS: TestKDTree_RangeSearch/nil (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.519006+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/nil","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.519013+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/wrong_dim","Output":"    --- PASS: TestKDTree_RangeSearch/wrong_dim (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.519224+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/wrong_dim","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.519242+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(lower)","Output":"    --- PASS: TestKDTree_RangeSearch/out_of_range_x_(lower) (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.519255+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(lower)","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.519266+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(lower)","Output":"    --- PASS: TestKDTree_RangeSearch/out_of_range_y_(lower) (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.519289+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(lower)","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.524751+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(higher)","Output":"    --- PASS: TestKDTree_RangeSearch/out_of_range_x_(higher) (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.524785+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_x_(higher)","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.524794+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(higher)","Output":"    --- PASS: TestKDTree_RangeSearch/out_of_range_y_(higher) (0.00s)\n"}
+{"Time":"2019-01-07T19:22:34.524804+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch/out_of_range_y_(higher)","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.52481+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearch","Elapsed":0}
+{"Time":"2019-01-07T19:22:34.524824+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator"}
+{"Time":"2019-01-07T19:22:34.524831+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator\n"}
+{"Time":"2019-01-07T19:22:34.66938+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100"}
+{"Time":"2019-01-07T19:22:34.669417+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100\n"}
+{"Time":"2019-01-07T19:22:34.669519+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100"}
+{"Time":"2019-01-07T19:22:34.66954+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100\n"}
+{"Time":"2019-01-07T19:22:34.670596+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100"}
+{"Time":"2019-01-07T19:22:34.670611+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100\n"}
+{"Time":"2019-01-07T19:22:34.688033+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500"}
+{"Time":"2019-01-07T19:22:34.688064+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500\n"}
+{"Time":"2019-01-07T19:22:35.02422+01:00","Action":"run","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500"}
+{"Time":"2019-01-07T19:22:35.024248+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500","Output":"=== RUN   TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500\n"}
+{"Time":"2019-01-07T19:22:41.894408+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator","Output":"--- PASS: TestKDTree_RangeSearchWithGenerator (7.38s)\n"}
+{"Time":"2019-01-07T19:22:41.894462+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100","Output":"    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:41.894469+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100_range:_-100_50_-50_100","Elapsed":0}
+{"Time":"2019-01-07T19:22:41.894477+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100","Output":"    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100 (0.00s)\n"}
+{"Time":"2019-01-07T19:22:41.894483+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000_range:_-100_50_-50_100","Elapsed":0}
+{"Time":"2019-01-07T19:22:41.894589+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100","Output":"    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100 (0.02s)\n"}
+{"Time":"2019-01-07T19:22:41.894605+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_10000_range:_-100_50_-50_100","Elapsed":0.02}
+{"Time":"2019-01-07T19:22:41.894629+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500","Output":"    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500 (0.34s)\n"}
+{"Time":"2019-01-07T19:22:41.894641+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_100000_range:_-500_250_-250_500","Elapsed":0.34}
+{"Time":"2019-01-07T19:22:41.894675+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500","Output":"    --- PASS: TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500 (6.87s)\n"}
+{"Time":"2019-01-07T19:22:41.894683+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator/nodes:_1000000_range:_-500_250_-250_500","Elapsed":6.87}
+{"Time":"2019-01-07T19:22:41.894694+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Test":"TestKDTree_RangeSearchWithGenerator","Elapsed":7.38}
+{"Time":"2019-01-07T19:22:41.894702+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Output":"PASS\n"}
+{"Time":"2019-01-07T19:22:41.894917+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Output":"coverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:41.949379+01:00","Action":"output","Package":"github.com/kyroy/kdtree","Output":"ok  \tgithub.com/kyroy/kdtree\t26.226s\tcoverage: 100.0% of statements\n"}
+{"Time":"2019-01-07T19:22:41.954018+01:00","Action":"pass","Package":"github.com/kyroy/kdtree","Elapsed":26.232}

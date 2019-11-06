@@ -1,0 +1,38 @@
+[
+    {
+        "package": "github.com/kyroy/gochecks/converter/testdata/gotests/testify",
+        "test": "TestF1",
+        "output": [
+            "=== RUN   TestF1\n",
+            "--- FAIL: TestF1 (0.00s)\n",
+            "    t_test.go:9: \n",
+            "        \tError Trace:\tt_test.go:9\n",
+            "        \tError:      \tNot equal: \n",
+            "        \t            \texpected: \"asd\"\n",
+            "        \t            \tactual  : \"dasd\"\n",
+            "        \t            \t\n",
+            "        \t            \tDiff:\n",
+            "        \t            \t--- Expected\n",
+            "        \t            \t+++ Actual\n",
+            "        \t            \t@@ -1 +1 @@\n",
+            "        \t            \t-asd\n",
+            "        \t            \t+dasd\n",
+            "        \tTest:       \tTestF1\n"
+        ],
+        "result": "fail",
+        "elapsed": 0,
+        "line": "t_test.go:9",
+        "coverage": 0
+    },
+    {
+        "package": "github.com/kyroy/gochecks/converter/testdata/gotests/testify",
+        "output": [
+            "FAIL\n",
+            "coverage: 0.0% of statements\n",
+            "FAIL\tgithub.com/kyroy/gochecks/converter/testdata/gotests/testify\t0.015s\n"
+        ],
+        "result": "fail",
+        "elapsed": 16000000,
+        "coverage": 0
+    }
+]
